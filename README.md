@@ -106,6 +106,7 @@
 |ASP.NET MVC|★★|
 |ASP.NET WebAPI|★★|
 |SignalR|★|
+|Roslyn Analyzer|★|
 |Apache Flex|★★★|
 |ColdFusion|★|
 |Xamarin.Android|★|
