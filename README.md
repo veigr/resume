@@ -54,7 +54,7 @@
 
 # 職歴
 
-## 小規模 SIer (2006/04 - 現在)
+## 小規模 SIer (2006/04 - 2020/05)
 
 ### 業務領域
 
@@ -71,6 +71,17 @@
 * 社内サーバー・ネットワーク・PC の管理
 * 社内業務・規則の改善
 
+## 自社サービス開発・運営企業 (2020/06 - 現在)
+
+### 業務領域
+
+* B2C 自社サービス開発・運営
+
+### ポジション
+
+* モバイルアプリケーションの開発
+* 開発プロセスの改善
+
 # スキルセット
 
 |習熟度 凡例|程度|
@@ -83,7 +94,8 @@
 |--|--|
 |Windows Desktop|★★★|
 |Web|★★|
-|Android|★|
+|Android|★★|
+|iOS|★|
 
 |開発言語|習熟度|
 |--|--|
@@ -113,7 +125,8 @@
 |Roslyn Analyzer|★|
 |Apache Flex|★★★|
 |ColdFusion|★|
-|Xamarin.Android|★|
+|Xamarin.Android|★★|
+|Xamarin.iOS|★|
 |Android Architecture Components|★|
 |Kotlin Coroutines|★|
 |electron-vue|★|
@@ -134,6 +147,7 @@
 |--|--|
 |Jenkins|★★|
 |AppVeyor|★|
+|Azure Pipelines|★|
 
 |インフラ|習熟度|
 |--|--|
@@ -156,7 +170,7 @@
 |MVC|★★|
 |MVVM|★★★|
 |セキュリティ|★★|
-|スクラム|★|
+|スクラム|★★|
 |HTTP (1.1, 2, WebSocket)|★★★|
 |カラーマネジメント|★★|
 |自作 PC|★★★|
